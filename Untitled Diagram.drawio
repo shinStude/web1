@@ -1,1 +1,186 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T01:27:53.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.5.6" etag="QJg4F1xIP03ImsDvMvb3" type="github"><diagram id="JFm3d4TLKODGvPxKO1hc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-20T01:58:59.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="EYK5jGPctTIMjFFDMi9e" version="15.5.6" type="github">
+  <diagram id="JFm3d4TLKODGvPxKO1hc" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <object label="" shin="" id="0">
+          <mxCell />
+        </object>
+        <mxCell id="1" parent="0" />
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-1" target="fxAFCR5jL-72uxpNsdXY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-1" target="fxAFCR5jL-72uxpNsdXY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-1" value="비회원&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-2" target="fxAFCR5jL-72uxpNsdXY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-2" target="fxAFCR5jL-72uxpNsdXY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-2" target="fxAFCR5jL-72uxpNsdXY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-2" target="fxAFCR5jL-72uxpNsdXY-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-2" value="관리자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="780" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-3" target="fxAFCR5jL-72uxpNsdXY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-3" target="fxAFCR5jL-72uxpNsdXY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-3" target="fxAFCR5jL-72uxpNsdXY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-3" target="fxAFCR5jL-72uxpNsdXY-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="280" />
+              <mxPoint x="205" y="280" />
+              <mxPoint x="205" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-3" target="fxAFCR5jL-72uxpNsdXY-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="280" />
+              <mxPoint x="205" y="280" />
+              <mxPoint x="205" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-3" target="fxAFCR5jL-72uxpNsdXY-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="280" />
+              <mxPoint x="205" y="280" />
+              <mxPoint x="205" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-3" value="회원" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-4" target="fxAFCR5jL-72uxpNsdXY-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-4" value="문의하기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="590" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-5" value="이벤트 등록" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="830" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-6" value="상품등록/수정/삭제" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="760" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-7" value="회원관리" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="690" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-8" value="상품조회" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="115" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-9" target="fxAFCR5jL-72uxpNsdXY-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-9" value="맞춤주문" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-10" target="fxAFCR5jL-72uxpNsdXY-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-10" value="상품조회&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-11" target="fxAFCR5jL-72uxpNsdXY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-71" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fxAFCR5jL-72uxpNsdXY-70">
+          <mxGeometry x="-0.3444" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-11" value="회원탈퇴" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-12" value="로그인" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="280" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-13" value="회원가입" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="35" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-14" target="fxAFCR5jL-72uxpNsdXY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-73" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fxAFCR5jL-72uxpNsdXY-72">
+          <mxGeometry x="-0.69" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-14" value="회원정보&lt;br&gt;수정" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-27" target="fxAFCR5jL-72uxpNsdXY-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-27" value="상세보기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="360" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-64" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-29" target="fxAFCR5jL-72uxpNsdXY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-29" value="상품주문" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-38" value="주문 조회" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="900" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-45" target="fxAFCR5jL-72uxpNsdXY-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-45" target="fxAFCR5jL-72uxpNsdXY-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-45" value="마이페이지" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="150" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-67" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-46">
+          <mxGeometry x="-0.2405" relative="1" as="geometry">
+            <mxPoint x="760" y="280" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-46" value="장바구니" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-66" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-48" target="fxAFCR5jL-72uxpNsdXY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-48" value="주문수정" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-62" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-51" target="fxAFCR5jL-72uxpNsdXY-12">
+          <mxGeometry x="-0.2248" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-51" value="이메일 전송" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="590" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-57" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="fxAFCR5jL-72uxpNsdXY-56" target="fxAFCR5jL-72uxpNsdXY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAFCR5jL-72uxpNsdXY-56" value="이미지추가" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="530" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
